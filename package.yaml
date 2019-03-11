@@ -1,7 +1,7 @@
 name:                monkeyInterpreter
 version:             0.1.0.0
 github:              "kunihiko-t/monkey-interpreter-haskell"
-license:             BSD3
+license:             BSD2
 author:              "Kunihiko Tanaka"
 maintainer:          "inverse.of.void.matrix@gmail.com"
 copyright:           "2019 Kunihiko Tanaka"
